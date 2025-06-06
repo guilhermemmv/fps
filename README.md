@@ -18,3 +18,5 @@ And run:
 ```sh
 ./fps
 ```
+
+You may need to move your mouse cursor to inside the game screen before being able to control the camera.
