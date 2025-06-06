@@ -150,7 +150,6 @@ int main (void) {
 		  moveSpeed = 0;
 		  break;
 	  }
-	  printf("x: %d, y: %d\n", posInMap.x, posInMap.y);
 
       if (rayDir.x < 0) {
     	step.x = -1;
